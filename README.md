@@ -20,3 +20,7 @@ Realizamos a elaboração deste projeto utilizando a plataforma Google Colab. Po
 
 ## Base de Dados
 A base de dados usada neste projeto está disponível no GitHub. Você pode baixá-la [aqui](https://github.com/Lucas-Justino/Problema-Classificacao-Nasa/blob/main/neo.csv).
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se livre para usar, modificar e distribuir conforme as diretrizes da licença.
